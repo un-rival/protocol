@@ -1,2 +1,1 @@
-# protocol
-collective intelligence for collective goals
+todo: add readme
